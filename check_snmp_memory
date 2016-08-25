@@ -4,8 +4,6 @@
 # Description : Checks memory and swap usage on Windows/Linux Server
 # Version : 1.9a
 # Author : Yoann LAMY
-
-# Update : livilu
 # Update notes: added snmp protocol support, added port support
 # Licence : GPLv2
 
