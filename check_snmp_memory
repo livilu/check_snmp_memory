@@ -2,7 +2,7 @@
 
 # check_snmp_memory
 # Description : Checks memory and swap usage on Windows/Linux Server
-# Version : 1.9
+# Version : 1.9a
 # Author : Yoann LAMY
 
 # Update : livilu
